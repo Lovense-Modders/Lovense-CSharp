@@ -1,0 +1,12 @@
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\LovenseAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\LovenseAPI.AssemblyInfoInputs.cache
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\LovenseAPI.AssemblyInfo.cs
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\LovenseAPI.csproj.CoreCompileInputs.cache
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\bin\Debug\net5.0\LovenseAPI.deps.json
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\bin\Debug\net5.0\LovenseAPI.dll
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\bin\Debug\net5.0\ref\LovenseAPI.dll
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\bin\Debug\net5.0\LovenseAPI.pdb
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\LovenseAPI.dll
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\ref\LovenseAPI.dll
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\LovenseAPI.pdb
+C:\Users\nogit\Bureau\Lovense APIs\C#\Lovense\obj\Debug\net5.0\LovenseAPI.csproj.AssemblyReference.cache
