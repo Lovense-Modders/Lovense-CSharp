@@ -1,6 +1,6 @@
 ﻿namespace LovenseAPI.Toys
 {
-    class Edge : Toy
+    public class Edge : Toy
     {
         public bool Vibrate1(int speed)
         {

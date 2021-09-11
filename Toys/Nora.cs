@@ -1,6 +1,6 @@
 ﻿namespace LovenseAPI.Toys
 {
-    class Nora : Toy
+    public class Nora : Toy
     {
         public bool Rotate(int speed)
         {

@@ -1,6 +1,6 @@
 ﻿namespace LovenseAPI.Toys
 {
-    class Mission : Toy
+    public class Mission : Toy
     {
         // Nothing yet, we'll see in the future !
     }

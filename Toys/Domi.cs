@@ -1,6 +1,6 @@
 ﻿namespace LovenseAPI.Toys
 {
-    class Domi : Toy
+    public class Domi : Toy
     {
         public bool Preset(int pattern)
         {

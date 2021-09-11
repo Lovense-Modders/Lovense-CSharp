@@ -1,6 +1,6 @@
 ﻿namespace LovenseAPI.Toys
 {
-    class Max : Toy
+    public class Max : Toy
     {
         public bool AirAuto(int speed)
         {

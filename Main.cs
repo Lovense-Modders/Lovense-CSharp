@@ -58,7 +58,7 @@ namespace LovenseAPI
             }
         }
 
-        private static bool Connect()
+        public static bool Connect()
         {
             try
             {
